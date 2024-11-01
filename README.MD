@@ -1,0 +1,1 @@
+Este ejemplo implementa un autoencoder con una sola capa oculta, utilizando operaciones básicas de álgebra lineal para realizar el entrenamiento.
